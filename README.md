@@ -2,6 +2,8 @@
 This project is intended for use as a model to play with some more
 DevSecOps principles in a practical way. 
 
+[![Coverage Status](https://coveralls.io/repos/github/bccha/lg23devsecops/badge.svg?branch=main)](https://coveralls.io/github/bccha/lg23devsecops?branch=main)
+
 ## Overview
 This exercise will take you through setting up a simple DevSecOps pipeline
 for a Python project. The example Python project is a simple client that
